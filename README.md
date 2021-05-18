@@ -1,4 +1,4 @@
-Welcome, my name is Alisson, I'm 23y old and currently taking a degree in Software Development in the Polytechnic Institute of Bragança, Portugal.
+Welcome, my name is Alisson, I'm 23y old and currently taking a degree in Software Development in the Polytechnic Institute of Bragança.
 
 ✔ Skills: C#, ASP.NET, WebServices, SQL Server and MySQL, HTML, CSS + Bootstrap and React.js;
 
