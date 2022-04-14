@@ -1,8 +1,12 @@
-Just a 24 years old brazillian living in Portugal. 
-When I'm not coding, I'm probably playing football (the real one).
-
-✔ Main skills: C#, JavaScipt, .NET 5.0(+), SQL Server, MySQL, MongoDB;
-
-✔ Tools: Figma, Visual Paradigm, Postman, Git, Azure DevOps, SonarQube;
-
-✔ WebServices, REST API's, microsservices, UML, SOLID, Design Patterns, Clean Code, Agile, SCRUM, CI/CD;
+## Just a 24 years old backend software developer. If I'm not coding, I'm probably playing football.  
+  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Rafa-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-plain-wordmark.svg">
+</div>
+  <p>
+<div> 
+  <a href="https://www.instagram.com/peresfjv_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lebarckalisson@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
