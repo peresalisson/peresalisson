@@ -1,6 +1,6 @@
-Welcome, my name is Alisson, I'm 23y old and currently taking a degree in Software Development in the Polytechnic Institute of Bragança.
+Just a 24 years old brazillian living in Portugal. 
+When I'm not coding, I'm probably playing football (the real one).
 
-✔ Skills: C#, ASP.NET, WebServices, SQL Server and MySQL, HTML, CSS + Bootstrap and React.js;
-
-✔ Tools: Visual Studio, VS Code, Figma, Visual Paradigm, Git - GitHub and GitLab.
-
+✔ Main skills: C#, JavaScipt, .NET 5.0(+), SQL Server, MySQL, MongoDB;
+✔ Tools: Figma, Visual Paradigm, Postman, Git, Azure DevOps, SonarQube;
+✔ WebServices, REST API's, microsservices, UML, SOLID, Design Patterns, Clean Code, Agile, SCRUM, CI/CD;
