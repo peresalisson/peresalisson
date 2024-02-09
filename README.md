@@ -1,9 +1,10 @@
 # Hi there, Welcome! 👋
 
 My name is Alisson and I'm a passionate Software Engineer, most experienced on developing backend applications, but now improving my frontend skills.
-- 🔭 Currently working on GLINTT as a Software Engineer, developing web and mobile solutions for Hospitals and Pharmacies in Portugal and Spain. I'm working as a Fullstack, developing with C#, PL/SQL and Typescript.
+- ⚡ Currently working on GLINTT as a Software Engineer, developing web and mobile solutions for Hospitals and Pharmacies in Portugal and Spain. I'm working as a Fullstack, developing with C#, PL/SQL and Typescript.
 - ⚡ In these 2-3 years of experience, I've acquired a different variety of skills:
      - Azure DevOps, Docker, SOLID, xUnit, RabbitMQ, Clean Code, Design Patterns, SOAP/REST, Linq, Lambda, Stored Procedures, etc..
+- ⚡ During my free time I'm studying AI Fundamentals - Machine Learning, Deep Learning, Computer Vision, etc - and Data Science.
 
 # Main skills:
 ### Languages:
