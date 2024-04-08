@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, Welcome! 👋</h1>
 <h3 align="center">My name is Alisson and I'm a Brazilian Mid-Level Software Engineer, currently based and working in Europe.</h3> <br>
 
-- 👨‍💻 Currently working as a Full Stack developer at Glintt, developing web and mobile solutions for Hospitals and Pharmacies in Portugal and Spain. <br>
+- 👨‍💻 Currently working as a Lead Software Engineer at Metrica, developing applications for companies all around the world. <br>
 - 👨‍💻 During my free time I'm studying Data Science and AI Fundamentals, such as Machine Learning and Computer Vision. <br>
 - 👨‍💻 In 2023 I've started a degree in Computer Science and Engineering at the Polytechnic Institute of Bragança.
 
